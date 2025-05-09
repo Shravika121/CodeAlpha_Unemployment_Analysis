@@ -47,8 +47,9 @@ Eastern and Northern regions showed varied recovery patterns over time.
 Visualizations helped highlight regional disparities and trends clearly.
 
 📎 How to Run
+
 Clone the repository:
-git clone https://github.com/your-username/CodeAlpha_Unemployment_Analysis.git
+git clone https://github.com/Shravika121/CodeAlpha_Unemployment_Analysis.git
 cd CodeAlpha_Unemployment_Analysis
 Open the notebook:
 jupyter notebook Unemployment_Analysis.ipynb
