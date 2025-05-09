@@ -1,7 +1,11 @@
  **Unemployment Analysis with Python**
+ 
  *Overview*
-This project is part of my CodeAlpha Data Science Internship, focused on analyzing the unemployment rate in India across various regions during the year 2020. Using Python libraries such as Pandas, Seaborn, and Matplotlib, I performed data cleaning, visualization, and interpretation to extract insights from the dataset
+ 
+This project is part of my CodeAlpha Data Science Internship, focused on analyzing the unemployment rate in India across various regions during the year 2020. Using Python libraries such as Pandas, Seaborn, and Matplotlib, I performed data cleaning, visualization, and interpretation to extract insights from the dataset.
+
 Dataset
+
 Name: Unemployment in India.csv
 
 Source: Kaggle - Unemployment in India
